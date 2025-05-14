@@ -18,7 +18,10 @@
 
 ## 🌱 Currently Learning
 
-- Cybersecurity fundamentals  
+- Cybersecurity fundamentals
+- <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00F79A&center=true&vCenter
+ 
 - Python scripting for automation and security  
 - Git & GitHub for version control  
 
