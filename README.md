@@ -24,6 +24,8 @@
 Here is an interesting Cybersecurity GIF to highlight the topic!
 
 ![Cyber Security](https://link_to_your_gif.gif)
+<img src="https://link_to_your_gif.gif" alt="Cyber Security" width="500"/>
+
 
  
 - Python scripting for automation and security  
