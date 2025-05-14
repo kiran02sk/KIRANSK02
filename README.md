@@ -20,7 +20,9 @@
 
 - Cybersecurity fundamentals
 - <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00F79A&center=true&vCenter
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70081&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;I+love+coding+%F0%9F%92%BB;Check+out+my+projects+below+%F0%9F%91%87" alt="Typing SVG" />
+</h1>
+
  
 - Python scripting for automation and security  
 - Git & GitHub for version control  
