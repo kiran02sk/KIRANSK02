@@ -23,7 +23,8 @@
 
 Here is an interesting Cybersecurity GIF to highlight the topic!
 
-![Cybersecurity GIF](https://github.com/your-username/your-repository-name/raw/main/assets/your-gif-name.gif)
+![Cybersecurity GIF](https://github.com/your-username/your-repository-name/raw/main/assets/cybersecurity.gif)
+
 
  
 - Python scripting for automation and security  
