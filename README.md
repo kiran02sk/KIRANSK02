@@ -23,7 +23,7 @@
 
 Here is an interesting Cybersecurity GIF to highlight the topic!
 
-![Cybersecurity GIF](https://github.com/your-username/your-repository-name/raw/main/assets/cybersecurity.gif)
+![Cybersecurity GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pwc.nl%2Fen%2Ftopics%2Fblogs%2Fcyber-security-is-invisible-foundation-of-modern-organisation.html&psig=AOvVaw2lolw1-Wd4xNTkhXkwE4Fo&ust=1747321506381000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi1__2do40DFQAAAAAdAAAAABAE)
 
 
  
